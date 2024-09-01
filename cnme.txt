@@ -20,3 +20,4 @@ cdn.xfltd-cdn.top
 xfltd-cdn.top
 cdn.alibaba.com
 alibaba.com
+itv.cmvideo.cn
