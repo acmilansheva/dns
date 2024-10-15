@@ -22,3 +22,4 @@ cdn.alibaba.com
 alibaba.com
 itv.cmvideo.cn
 cmvideo.cn
+xfltd.cfd
