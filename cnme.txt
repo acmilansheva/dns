@@ -24,3 +24,4 @@ itv.cmvideo.cn
 cmvideo.cn
 xfltd.cfd
 xf-sub.vip
+xfsub.cc
