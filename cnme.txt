@@ -25,3 +25,4 @@ cmvideo.cn
 xfltd.cfd
 xf-sub.vip
 xfsub.cc
+trndxf.xin
